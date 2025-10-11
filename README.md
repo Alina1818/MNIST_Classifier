@@ -9,7 +9,7 @@ This project implements three classification models for the MNIST dataset:
 - Convolutional Neural Network
 
 ## Structure
-- `MnistClassifierInterface.py` — model classes and training logic  
+- `MNISTclassifierInterface.py` — model classes and training logic  
 - `demo.ipynb` — demonstration of model training and evaluation  
 - `requirements.txt` — list of dependencies  
 
