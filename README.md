@@ -1,4 +1,4 @@
-# Task-1
+# Task 1
 Image classification + OOP
 
 # MNIST Classifier Project
@@ -9,7 +9,7 @@ This project implements three classification models for the MNIST dataset:
 - Convolutional Neural Network
 
 ## Structure
-- `mnist_models.py` — model classes and training logic  
+- `MnistClassifierInterface.py` — model classes and training logic  
 - `demo.ipynb` — demonstration of model training and evaluation  
 - `requirements.txt` — list of dependencies  
 
