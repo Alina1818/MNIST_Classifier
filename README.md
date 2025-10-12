@@ -1,9 +1,9 @@
 # Task 1
 Image classification + OOP
 
-# MNIST Classifier Project
+# MNIST Classifier Interface
 
-This project implements three classification models for the MNIST dataset:
+This Interface implements three classification models for the MNIST dataset:
 - Random Forest
 - Feed-Forward Neural Network
 - Convolutional Neural Network
