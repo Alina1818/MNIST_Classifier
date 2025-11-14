@@ -1,6 +1,3 @@
-# Task 1
-Image classification + OOP
-
 # MNIST Classifier Interface
 
 This Interface implements three classification models for the MNIST dataset:
